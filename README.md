@@ -16,7 +16,6 @@ Therefore, here is my advice to Louise: a hypothetical venture for Louise should
 The challenge included figuring out the likelihood of success for the category of theater based on two filters: launch date and goal amount. The outcome of successful ventures based on goal amount trended in having a downward slope, meaning that the higher goals had a lower chance of success, as can be seen below. The outcome based on launch date for theater showed ventures have shown to do well in May.
 ---
 ![](chart5.png) 
----
 ![](chart6.png)
 ---
 
