@@ -18,3 +18,5 @@ The challenge included figuring out the likelihood of success for the category o
 ![](chart5.png) 
 ---
 ![](chart6.png)
+---
+
